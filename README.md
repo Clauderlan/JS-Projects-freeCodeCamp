@@ -1,5 +1,3 @@
-# JS-Projects-freeCodeCamp
-
 ## Projetos obrigatórios para a conclusão do curso de JavaScript da FreeCodeCamp.
 
 Verify this certification at :
